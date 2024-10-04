@@ -1,4 +1,4 @@
-## Olá! Como vai, meu nome é Julia👋
+## Olá! Sou a Julia👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akemyk_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-kitano-b0808a2b7/)
 
